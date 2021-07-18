@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Rosa</h1>
 <h3 align="center">I am  studying to be a frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Victor-Rosa&color=blueviolet" alt="Victor_Rosa" /> </p>
@@ -13,7 +12,7 @@
 
 ##### ABOUT ME :
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="notebook victorrosa">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="notebook victorrosa">
 
  - 📚 I'm love read great books.
 - 👨‍💻I’m currently learning: ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=flat-square&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,4 +34,3 @@
 
   <a href="https://www.twitter.com/Rosavictors/" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
