@@ -32,5 +32,4 @@
   <a href="https://www.linkedin.com/in/victor-rosa-46b4741b8/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-rosa" /></a>
 
-  <a href="https://www.twitter.com/Rosavictors/" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ 
