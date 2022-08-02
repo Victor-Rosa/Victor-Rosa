@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="notebook victorrosa">
 
- - 📚 I'm love read great books.
+ - 📚 I'm love read classic books.
 - 👨‍💻I’m currently learning:  <img align="center" alt="Rafa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rosa-Ts" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rosa-React" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,7 +25,7 @@
 
 
 - 🏫 I study information system at the Fluminense Federal University.
- - 💻 I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences.
+ - 💻 I have a great passion for data and its power to change scenarios
 
 
 ##### WHERE TO FIND ME:
