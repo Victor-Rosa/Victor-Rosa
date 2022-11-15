@@ -1,5 +1,5 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Rosa</h1>
-<h3 align="center">I am  studying to be a Fullstack Web Developer</h3>
+<h3 align="center">I am  studying to be a Data Engineer and Python Developer</h3>
 
 
 <div>
