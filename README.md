@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="notebook victorrosa">
 
  - 📚 I'm love read classic books.
-- 👨‍💻I’m currently learning:  <img align="center" alt="Rafa-Js" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- 👨‍💻I’m currently learning:  <img align="center" alt="Rafa-Js" height="25" width="30" 
   <img align="center" alt="Rosa-Python" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
