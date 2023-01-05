@@ -2,14 +2,6 @@
 <h3 align="center">I am  studying to be a Data Engineer and Python Developer</h3>
 
 
-<div>
-  <a href="https://github.com/Victor-Rosa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Rosa&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Rosa&layout=compact&langs_count=7&theme=react"/>
-</div>
-
-
-
 ##### ABOUT ME :
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="notebook victorrosa">
