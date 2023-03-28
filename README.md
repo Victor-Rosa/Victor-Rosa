@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👨‍💻I’m currently learning: Python, Java, Spark, AWS, SQL, Docker, Terraform<br>- 🏫 I study information system at the Fluminense Federal University.<br>- 💻 I have a great passion for data and its power to change scenarios<br>- 📚 I'm love read classic books.
+
+<br>- 🏫 I study information system at the Fluminense Federal University.<br>- 💻 I have a great passion for data and its power to change scenarios<br>- 📚 I'm love read classic books.
 
 
 ## 🌐 Socials:
